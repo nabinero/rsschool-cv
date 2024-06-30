@@ -1,6 +1,6 @@
 # Marianna Ivaniuk
 
-![Profile Picture](https://avatars.githubusercontent.com/u/173073426?s=400&u=58b32a3616d6738ed43fc4d20337a59842357d00&v=4) 
+<img src="https://avatars.githubusercontent.com/u/173073426?s=400&u=58b32a3616d6738ed43fc4d20337a59842357d00&v=4" alt="Profile Picture" width="150" height="150" style="border-radius: 50%; object-fit: cover;"/>
 
 [Email](mariannaivaniuk@gmail.com) | [GitHub](https://github.com/nabinero) 
 
